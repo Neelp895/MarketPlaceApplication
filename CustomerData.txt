@@ -1,0 +1,11 @@
+Neel
+Coca-Cola;CVS;sugar pop;2;1.99;
+brush;Walgreens;brush your hair;2;4.99;
+pants;Pacsun;size small pants;2;48.99;
+raft;kmart;floats on water;1;499.99;
+Twix;CVS;crispy and chocolatey and carmel;1;1.49;
+pants;Pacsun;size small pants;2;48.99;
+*****************************************
+noah
+paper;Walmart;write;3;2.99;
+*****************************************

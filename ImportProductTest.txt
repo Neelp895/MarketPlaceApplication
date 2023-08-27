@@ -1,0 +1,2 @@
+horse,newStore,neigh,234,2000.00,9,
+turtle,newStore,very fast,32,210.00,9,

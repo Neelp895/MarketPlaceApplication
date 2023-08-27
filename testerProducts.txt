@@ -1,0 +1,7 @@
+tester
+Product: dogFood
+Store: Nike
+Description: food for dog
+Quantity: 10
+Price of item: 25.0
+

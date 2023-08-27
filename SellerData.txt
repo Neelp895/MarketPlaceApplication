@@ -1,0 +1,32 @@
+Neel
+paper;Walmart;write;1782;2.99;0;
+party hat;walmart;hat for partying;4;4.99;0;
+*****************************************
+Travis
+shorts;Pacsun;size small shorts;234;48.99;0;
+pants;Pacsun;size small pants;26;48.99;0;
+*****************************************
+Johnny
+shoes;Nike;nice shoes;722;34.99;0;
+dogFood;Nike;food for dog;24522;25.99;0;
+*****************************************
+Gabe
+raft;kmart;floats on water;2;499.99;0;
+socks;kmart;size small socks;120;9.99;0;
+underwear;kmart;size small underwear;39;5.99;0;
+*****************************************
+Kam
+Advil;CVS;takes away the pain;32;12.99;0;
+Coca-Cola;CVS;sugar pop;103;1.99;0;
+Twix;CVS;crispy and chocolatey and carmel;67;1.49;0;
+*****************************************
+Jackson
+kit kat;Walgreens;candy;4;1.49;0;
+brush;Walgreens;brush your hair;8;4.99;0;
+shampoo;Walgreens;wash your hair;12;6.99;0;
+*****************************************
+bird-man
+fish;petSmart;swims in bowl;4;4.99;0;
+horse;petSmart;neigh;234;1999.99;0;
+turtle;petSmart;very fast;20;209.99;0;
+*****************************************

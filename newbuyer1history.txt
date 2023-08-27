@@ -1,0 +1,7 @@
+newbuyer1
+Product: horse
+Store: newStore
+Description: neigh
+Quantity: 10
+Price of item: 2000.0
+
